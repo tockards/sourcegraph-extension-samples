@@ -23,7 +23,7 @@
     "typescript": "^3.2.1"
   },
   "dependencies": {
-    "rxjs": "^6.3.3",
+    "rxjs": "^6.5.4",
     "xmlhttprequest": "^1.8.0"
   }
 }
